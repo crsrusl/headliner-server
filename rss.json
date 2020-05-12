@@ -1,0 +1,22 @@
+[
+    {
+    "name": "metro",
+    "url": "https://metro.co.uk/news/feed/"
+    },
+    {
+        "name": "the sun",
+        "url": "https://www.thesun.co.uk/news/feed/"
+    },
+    {
+        "name": "daily mail",
+        "url": "https://www.dailymail.co.uk/news/index.rss"
+    },
+    {
+    "name": "standard",
+    "url": "https://www.standard.co.uk/news/rss"
+    },
+    {
+        "name": "mirror",
+        "url": "https://www.mirror.co.uk/rss.xml"
+    }
+]
