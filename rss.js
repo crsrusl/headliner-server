@@ -18,5 +18,13 @@ module.exports = {
     "mirror": {
         "name": "mirror",
         "url": "https://www.mirror.co.uk/?service=rss"
+    },
+    "express": {
+        "name": "express",
+        "url": "https://feeds.feedburner.com/daily-express-news-showbiz?format=xml"
+    },
+    "theTelegraph": {
+        "name": "the telegraph",
+        "url": "https://www.telegraph.co.uk/news/rss.xml"
     }
 }
