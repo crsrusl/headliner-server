@@ -18,7 +18,7 @@ module.exports = function (url, cb) {
                 if (err) return console.log('error', err);
                 if (result===null) return console.log('error', 'result is null')
                 if (cb) return cb(result)
-                return result
+                return result;
             });
         });
     }).end();
